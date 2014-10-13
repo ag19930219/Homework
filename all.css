@@ -43,6 +43,7 @@ table {
 }
 .wrap{
 	font-size:10px;
+	font-family: 'Century Gothic';
 	width: 800px;
 }
 .header {
@@ -90,7 +91,7 @@ table {
 ._statment{
 	width:520px;
 	float: left;
-	height:190px;
+	height:180px;
 	margin-left:2%; 
 	margin-right: 2%; 
 	margin-bottom: 10px;
@@ -112,7 +113,7 @@ h2{
 }
 .product{
 	width:30%;
-	height:190px;
+	height:180px;
 	float: left;
 	margin-right:5px;
 	margin-bottom: 20px; 
@@ -120,7 +121,7 @@ h2{
 	text-align:center;
 }
 .name{
-	width: 40%;
+	width: 50%;
 	margin-left:5px; 
 	float:left;
 }
